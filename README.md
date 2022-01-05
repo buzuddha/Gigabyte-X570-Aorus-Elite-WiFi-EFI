@@ -1,16 +1,16 @@
 # X570-Aorus-Eite-WiFi-EFI
-OpenCore 0.7.6 EFI
+OpenCore 0.7.6 EFI\n
 
 This EFI is partially functional:
 
-MoBo: Gigabyte X570-Aorus Elite WiFi
-CPU: Ryzen 7 3900X
-GPU: Gigabyte AMD Radeon R580
-Ethernet: Intel Integrated I211(MoBo)
-Bluetooth: Integrated (MoBo)
-WiFi: Intel Wi-Fi 802.11 a/b/g/n/ac
-NVMe: Samsung 980Pro
-RAM: Neo Forza 3600MHz
+MoBo: Gigabyte X570-Aorus Elite WiFi\n
+CPU: Ryzen 7 3900X\n
+GPU: Gigabyte AMD Radeon R580\n
+Ethernet: Intel Integrated I211(MoBo)\n
+Bluetooth: Integrated (MoBo)\n
+WiFi: Intel Wi-Fi 802.11 a/b/g/n/ac\n
+NVMe: Samsung 980Pro\n
+RAM: Neo Forza 3600MHz\n
 
 What works:
 WiFi

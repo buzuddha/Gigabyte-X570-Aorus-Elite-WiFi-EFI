@@ -19,8 +19,8 @@ Ethernet
 Bluetooth
 iMessage/Facetime/AppleID  
 Audio  
-USB2 port personality (minus one port)  
-USB3 port personality (minus one port)  
+USB2 port personality   
+USB3 port personality   
 Sleep  
 Wired/RF keyboard/mouse wake from sleep  
 ~6000 GB/s reads | ~1700 GB/s writes  

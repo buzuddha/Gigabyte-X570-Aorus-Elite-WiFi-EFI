@@ -7,7 +7,7 @@ This EFI is partially functional:
 MoBo: Gigabyte X570-Aorus Elite WiFi  
 CPU: Ryzen 7 3900X  
 GPU: Gigabyte AMD Radeon R580  
-Ethernet: EDUP Gigabit Ethernet PCI Express PCI-E Network Card (RealTekRTL8111) 
+Ethernet: EDUP Gigabit Ethernet PCI Express PCI-E Network Card (RealTekRTL8111)   
 Bluetooth: Integrated (MoBo)  
 WiFi: Intel Wi-Fi 802.11 a/b/g/n/ac  
 NVMe: Samsung 980Pro  
